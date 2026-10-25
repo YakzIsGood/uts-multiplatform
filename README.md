@@ -24,4 +24,4 @@ Untuk menjalankan proyek ini di perangkat fisik atau emulator Anda, ikuti instru
 1. **Clone Repositori Ini**
    Buka terminal dan jalankan perintah:
    ```bash
-   git clone [https://github.com/YakzIsGood/uts-multiplatform.git]
+   git clone https://github.com/YakzIsGood/uts-multiplatform.git
